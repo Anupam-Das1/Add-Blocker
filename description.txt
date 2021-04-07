@@ -1,0 +1,14 @@
+1) when we request to google , google send us some additional info and those
+   infos are add
+
+2) Add blocker ensure that 
+
+3) manifest.json contains all usefull things of chrome extension
+
+4) permission contains chrome api
+
+5) we use addListener that take three arguements 
+   i) call back function
+   ii) objects that represents our filter - which sizes we want to blocker
+   iii) array having blocking option
+   
